@@ -1,0 +1,31 @@
+.thumbnail img{
+	width: 100%;
+	height: 700px;
+}
+
+
+.thumbnail .imgstyle{
+	width: 100%;
+	height: 170px;
+	background-size: cover;
+}
+
+.thumbnail{
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+#delete-form{
+	display: inline;
+}
+
+#map{
+	height: 400px;
+	width: 100%;
+}
+.checked {
+    color: orange;
+}
